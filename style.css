@@ -1,0 +1,63 @@
+body
+{
+background-color: rgb(179, 208, 179);
+}
+
+#title_p
+{
+font-family:'Inter', sans-serif;
+}
+
+#title_div
+{
+font-family: 'Kalam', cursive;
+background:rgb(156, 154, 154);
+}
+
+.header_div
+{
+background-color: white;
+color: white;
+}
+
+.header_div p
+{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button
+{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    font-family: 'Kalam', cursive
+}
+
+#result_label
+{
+    font-family: 'Kalam', cursive
+}
+
+#detected
+{
+    font-family: 'Kalam', cursive
+}
